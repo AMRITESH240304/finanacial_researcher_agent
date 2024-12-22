@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+crewai[tools]
+langchain-groq==0.2.2
