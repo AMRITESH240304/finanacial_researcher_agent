@@ -5,3 +5,4 @@ langchain-groq==0.2.2
 pymongo==4.9.2
 langchain-google-genai==2.0.7
 langchain-mongodb==0.3.0
+pydantic_settings
